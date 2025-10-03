@@ -6,7 +6,6 @@
 </div>
 
 
-
 - 🌱 I’m currently learning **Flutter..**
 
 - 💬 Ask me about **Android App Development**
@@ -21,6 +20,68 @@
 <a href="https://www.leetcode.com/shivansh_kushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivansh_kushwah" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div align="left">
+
+<h3 align="left">🛠 Language and tools</h3>
+
+
+
+
+ 
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg" height="40" alt="Android Studio logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" height="40" alt="Android Studio logo"  />
+  <img width="12" />
+   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" height="40" alt="C logo"  />
+  <img width="12" />
+
+
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" height="40" alt="Android Studio logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" height="40" alt="Android Studio logo"  />
+  <img width="12" />
+   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" height="40" alt="C logo"  />
+  <img width="12" />
+
+   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg" height="40" alt="Android Studio logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" height="40" alt="Android Studio logo"  />
+  <img width="12" />
+   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" height="40" alt="Android Studio logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Apple-Dark.svg" height="40" alt="Android Studio logo"  />
+  <img width="12" />
+  
+</div>
 
