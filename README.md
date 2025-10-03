@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shivansh Kushwah</h1>
 <h3 align="center">A Passionate Mobile App Developer from India</h3>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"  />
+</div>
+
+
+
 - 🌱 I’m currently learning **Flutter..**
 
 - 💬 Ask me about **Android App Development**
