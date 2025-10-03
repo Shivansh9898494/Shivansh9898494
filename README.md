@@ -6,11 +6,11 @@
 </div>
 
 
-- 🌱 I’m currently learning **Flutter..**
+- 🌱 I’m currently learning **Cross Platform App Development**
 
 - 💬 Ask me about **Android App Development**
 
-- 📫 How to reach me **s.kushwah9898@gmail**
+- 📫 How to reach me **s.kushwah9898@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
