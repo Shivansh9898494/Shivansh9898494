@@ -18,7 +18,7 @@
 <a href="https://instagram.com/shivansh__kushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivansh__kushwah" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@always_play_?si=gH49n7Ol6qtu7MNm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivansh_kuhwah" height="30" width="40" />
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxjCzxHcqlPMgblJKnpGGMCqwXHXRlBWqXXVhpPfWdNZrSvrlBNhwdKxJxhPDKTJKHvbh"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="shivansh_kushwah" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="shivansh_kushwah" height="30" width="40" /></a>
 </p>
 
 <div align="left">
