@@ -16,8 +16,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/shivansh-kushwah-6b9ba6302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-ksuhawh" height="30" width="40" /></a>
 <a href="https://instagram.com/shivansh__kushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivansh__kushwah" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@always_play_?si=gH49n7Ol6qtu7MNm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivansh_kuhwah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivansh_kushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivansh_kushwah" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@always_play_?si=gH49n7Ol6qtu7MNm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivansh_kuhwah" height="30" width="40" />
+</a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxjCzxHcqlPMgblJKnpGGMCqwXHXRlBWqXXVhpPfWdNZrSvrlBNhwdKxJxhPDKTJKHvbh"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="shivansh_kushwah" height="30" width="40" /></a>
 </p>
 
 <div align="left">
